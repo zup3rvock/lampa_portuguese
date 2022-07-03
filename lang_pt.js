@@ -1,6 +1,4 @@
 (function() {
-    'use strict';
-
 	Lampa.Lang.addCodes(
 	{
 		pt:'Português'
