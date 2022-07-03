@@ -6,7 +6,7 @@
 		pt:'Português'
 	});
 
-	Lampa.Lang.addTranslation(
+	Lampa.Lang.AddTranslation(
 	'pt',
 	{
 		lang_choice_title: 'Bem-vindo',
