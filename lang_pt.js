@@ -2,8 +2,8 @@ Lampa.Lang.addCodes({pt:'Português'});
 
 Lampa.Lang.addTranslation('pt',{
 	lang_choice_title: 'Bem-vindo',
-    lang_choice_subtitle: 'Escolha seu idioma',
-    more: 'Mais',
+	lang_choice_subtitle: 'Escolha seu idioma',
+	more: 'Mais',
     show_more: 'Mostrar mais',
     more_results: 'Mostrar mais resultados',
     loading: 'Carregando',
